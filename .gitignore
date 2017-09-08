@@ -10,3 +10,4 @@ build
 /docs/target
 .bundle
 target/
+*.DS_Store
